@@ -1,0 +1,125 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Подпапка или файл C:\Users\Пользователь\Documents\ООП\CyberpunkCardGame\x64\Debug Dynamic\resources уже существует.
+  C:\Users\Пользователь\Documents\ООП\CyberpunkCardGame\resources\ball.wav
+  C:\Users\Пользователь\Documents\ООП\CyberpunkCardGame\resources\sansation.ttf
+  Скопировано файлов:         2.
+  Game.cpp
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(25): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(32): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(39): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(63): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(69): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(97): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(101): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(105): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(109): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(132): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(167): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(182): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(289): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(290): warning C4101: tmp: неиспользованная локальная переменная
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(318): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\пользователь\documents\ооп\cyberpunkcardgame\game.cpp(319): warning C4101: tmp: неиспользованная локальная переменная
+  CyberpunkCardGame.vcxproj -> C:\Users\Пользователь\Documents\ООП\CyberpunkCardGame\x64\Debug Dynamic\CyberpunkCardGame.exe
